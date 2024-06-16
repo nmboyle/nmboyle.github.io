@@ -12,7 +12,7 @@ desc "Generate blog files"
 task :generate do
   Jekyll::Site.new(Jekyll.configuration({
     "source"      => ".",
-    "destination" => "_site"
+    "destination" => "docs"
   })).process
 end
 
@@ -20,7 +20,7 @@ end
 desc "Generate and publish blog to gh-pages"
 task :publish => [:generate] do
   Dir.mktmpdir do |tmp|
-    cp_r "_site/.", tmp
+    cp_r "docs/.", tmp
 
     pwd = Dir.pwd
     Dir.chdir tmp

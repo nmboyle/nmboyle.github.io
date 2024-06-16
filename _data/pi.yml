@@ -1,17 +1,17 @@
-- name: Dr. Richard Feynman
-  photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+- name: Nathan Boyle
+  photo: Profile_SD.png
+  info: Research Assistant, Johns Hopkins School of Medicine
+  email: 
+  github: https://github.com/nmboyle/
+  #researchgate: https://www.researchgate.net/
+  scholar: https://scholar.google.com/citations?user=McBBWT0AAAAJ
   cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "(2024) B.S. Neuroscience, University of Maryland",
+      "(2024) B.A. Persian Studies, University of Maryland",
     ]
 
   educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+    ["(2024) B.S. Neuroscience, U of Maryland", "(2024) B.A. Persian Studies, U of Maryland"]
