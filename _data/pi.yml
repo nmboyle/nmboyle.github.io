@@ -1,7 +1,7 @@
 - name: Nathan Boyle
   photo: Profile_SD.png
-  info: Research Coordinator, Johns Hopkins School of Medicine
-  email: 
+  info: Research Coordinator, Johns Hopkins University School of Medicine
+  email: contact.cytoplasm267@silomails.com
   github: https://github.com/nmboyle/
   #researchgate: https://www.researchgate.net/
   scholar: https://scholar.google.com/citations?user=McBBWT0AAAAJ
@@ -9,9 +9,9 @@
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(2024) B.S. Neuroscience., University of Maryland",
+      "(2024) B.S. Neuroscience, University of Maryland",
       "(2024) B.A. Persian Studies, University of Maryland",
     ]
 
   educationshort:
-    ["(2024) B.S. Neuroscienc., U of Maryland", "(2024) B.A. Persian Studies, U of Maryland"]
+    ["(2024) B.S. Neuroscience, U of Maryland", "(2024) B.A. Persian Studies, U of Maryland"]

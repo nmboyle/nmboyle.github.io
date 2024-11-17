@@ -13,17 +13,16 @@ url: ""
 # Footer info
 affiliation: >
   Nathan Boyle<br/>
-  Research Assistant<br/>
+  Research Coordinator<br/>
   Johns Hopkins School of Medicine
 
-#location: >
-#  California Institute of Technology<br/>
-#  1200 E California Blvd<br/>
+location: >
+  Johns Hopkins Medicine<br/>
+  Baltimore, MD<br/>
 #  Pasadena, CA 91125
 
-#contact: >
-#  <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
-#   <a href="mailto:nathan@neuromail.org" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Nathan via email</a> <br/>
+contact: >
+  <a href="/about/"><i class="fa fa-envelope fa-1x"></i> Contact me via email</a> <br/>
 
 # Pages shown in navbar
 nav_pages:

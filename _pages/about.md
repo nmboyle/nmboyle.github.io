@@ -27,6 +27,10 @@ permalink: /about/
     {% for education in member.education %}
       <li>{{ education | replace: "-","&#8211;" }}</li>
     {% endfor %}
+    <br>
+    Public email: <a href="mailto:contact.cytoplasm267@silomails.com">contact.cytoplasm267@silomails.com</a><br>
+    PGP Fingerprint: 8c4c4c9e5499835404e6a896c75541571bdbf75a<br>
+    Public key: <a href="../pgp/publickey-nathanboyle-8c4c4c9e5499835404e6a896c75541571bdbf75a.asc" download>Download</a>
   </ul>
 
 </div>
